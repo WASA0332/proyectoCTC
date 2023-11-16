@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(46, 188, 188);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+#content1{
+    background-color: antiquewhite;
+    border: 2px solid red;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 15px;
+    display: flex;
+    width: 50vw;
+    align-items: center;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+img{
+    width: 300px;
+    align-items: center;
+}
